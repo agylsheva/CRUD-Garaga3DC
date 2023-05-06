@@ -1,2 +1,4 @@
+###################
 BUAT DATABASE BARU BERNAMA = garaga3dc
+###################
 Lalu IMPORT db.sql
