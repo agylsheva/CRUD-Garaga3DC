@@ -1,4 +1,5 @@
 ###################
-BUAT DATABASE BARU BERNAMA = garaga3dc
+Perhatikan Sebelum Memakai
 ###################
-Lalu IMPORT db.sql
+Buat Database Baru Bernama = garaga3dc di PhpMyadmin
+Lalu IMPORT db.sql yang ada di dalam folder
